@@ -1,13 +1,8 @@
 [servers]
 	# Configure your servers here. Each key represents the server's name, and the value
 	# represents the IP address of the server to connect to.
-	lobby = "192.168.1.102:25566"
-	sc1 = "192.168.1.102:13579"
+	lobby = "127.0.0.1:25566"
 	
 [forced-hosts]
 	# Configure your forced hosts here.
 	"lobby.example.com" = ["lobby"]
-	"draw.s.imc.re" = [ "draw" ]
-	"ar.s.imc.re" = [ "dlf" ]
-	"sc1.s.imc.re" = [ "sc1" ]
-	"smgoro.mcdn.iurl.ltd" = [ "sc1" ]
