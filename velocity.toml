@@ -7,8 +7,7 @@
 [forced-hosts]
 	# Configure your forced hosts here.
 	"lobby.example.com" = ["lobby"]
-  "draw.s.imc.re" = [ "draw" ]
-  "ar.s.imc.re" = [ "dlf" ]
-  "sc1.s.imc.re" = [ "sc1" ]
-  "smgoro.mcdn.iurl.ltd" = [ "sc1" ]
-  "mcdn.iurl.ltd" = [ "sc1" ]
+	"draw.s.imc.re" = [ "draw" ]
+	"ar.s.imc.re" = [ "dlf" ]
+	"sc1.s.imc.re" = [ "sc1" ]
+	"smgoro.mcdn.iurl.ltd" = [ "sc1" ]
